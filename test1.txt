@@ -1,6 +1,2 @@
 ligang
-<<<<<<< HEAD
-ligang
-=======
 ligang2
->>>>>>> dev
